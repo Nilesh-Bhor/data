@@ -1,4 +1,4 @@
-# ATLAN
+# Atlan
 
 Atlan is a modern data workspace designed to foster collaboration across diverse data teams, enabling them to organize, discover, and govern data assets more effectively. Originally launched in 2019, Atlan aims to simplify data management by providing tools for data governance, metadata management, and collaboration. Its platform is especially focused on helping teams navigate the complexity of data environments, promoting self-service analytics while ensuring proper data governance and security.
 
